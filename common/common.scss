@@ -1,0 +1,115 @@
+.d-header {
+	height: 90px
+}
+
+.d-header #site-logo {
+	max-height: 70px;
+	position: absolute;
+	margin: auto;
+}
+
+#main {
+    min-width: 650px !important;
+}
+
+#main-outlet {
+	padding-top: 110px;
+}
+
+.wrap {
+	padding: 0 24px;
+}
+
+.d-header .panel {
+	margin-top: 16px;
+}
+
+.dashboard-left {
+    margin-top: -10px;
+}
+
+.staff-actions .heading-container, .screened-emails .heading-container, .screened-urls .heading-container, .screened-ip-addresses .heading-container, .permalinks .heading-container, .search-logs-list .heading-container, .web-hook-events .heading-container {
+    padding: 8px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li>a.active {
+    padding: 10px;
+}
+
+.nav-pills>li>a {
+    padding: 10px;
+}
+
+.select-box-kit .select-box-kit-header .selected-name, .select-box-kit .select-kit-header .selected-name, .select-kit .select-box-kit-header .selected-name, .select-kit .select-kit-header .selected-name {
+    padding: 4px;
+}
+
+.list-controls .btn {
+    padding: 8px;
+}
+
+#foreground {
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/09/tex__free_noise_glitter_texture_by_cocobunnie-d7tzw2j-1.png");
+    opacity: 0.065;
+    height: 100vh;
+    position: fixed;
+    width: 100vw;
+    z-index: 99999 !important;
+    pointer-events: none;
+}
+
+.list-cell, .table-heading, .category-list td, .category-list th
+{
+    color: #909090;
+}
+
+.topic-list .topic-excerpt {
+    color: #909090;
+}
+
+.topic-list-item.visited a.title:not(.badge-notification), .latest-topic-list-item.visited a.title:not(.badge-notification), .category-topic-link.visited a.title:not(.badge-notification) {
+    color: #33e1ff;
+}
+
+.topic-list-main-link a.title, .topic-list .main-link a.title, .latest-topic-list-item .main-link a.title {
+    color: #77E9FC;
+}
+
+.list-container .has-excerpt .title, .topic-highlight {
+    background: rgba(255, 230, 0, 0.3);
+    padding: 0px 8px !important;
+    margin: -3px 0px;
+    line-height: 1.7;
+    border-radius: 8px;
+    display:inline-block;
+    color: #e7ff33 !important;
+}
+
+* > header > div > div > div.extra-info-wrapper > div
+{
+    margin-left: 128px;
+    margin-top: 8px;
+}
+
+.profiler-results {
+    visibility: hidden;
+}
+
+#topbar {
+    margin-bottom: 32px;
+    border-bottom: 1px dashed #37474D;
+    width: 100%;
+}
+
+.topbar {
+    background-color: #37474D !important;
+    min-width: 136px;
+    color: #E3F8FF !important;
+    margin-right: 16px !important;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.normal-navigation {
+    
+}

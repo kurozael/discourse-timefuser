@@ -1,0 +1,19 @@
+{
+  "name": "Timefuser",
+  "about_url": "https://meta.discourse.org/t/timefuser-theme/79106",
+  "license_url": "https://github.com/kurozael/discourse-timefuser/blob/master/LICENSE.txt",
+  "color_schemes": {
+      "Timefuser": {
+        "primary": "dddddd",
+        "secondary": "222222",
+        "tertiary": "0f82af",
+        "quaternary": "c14924",
+        "header_background": "111111",
+        "header_primary": "dddddd",
+        "highlight": "a87137",
+        "danger": "e45735",
+        "success": "1ca551",
+        "love": "fa6c8d"
+      }
+    }
+}
